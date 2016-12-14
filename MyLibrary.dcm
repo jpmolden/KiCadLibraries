@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LNA-MGA-68563
+D Current-Adjustable, Low Noise Amplifier
+K LNA
+$ENDCMP
+#
+#End Doc Library
